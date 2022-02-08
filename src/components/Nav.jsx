@@ -5,10 +5,6 @@ import "./Nav1.css"
 import "./darkmode1.css"
 import logo from "./searchin images/search-in.png"
 import logo3 from "./searchin images/new_icon.webp"
-import logo1 from "./Images/moon.png"
-import logo2 from "./Images/sun.png"
-import Footer from './Footer';
-
 
 const Nav = () => {
     

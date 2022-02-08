@@ -4,14 +4,6 @@ import "aos/dist/aos.css";
 
 import "./Responsive.css"
 import "./Head1.css"
-import logo from "./Images/header-pic.png"
-import logo1 from "./Images/1.png"
-import logo2 from "./Images/2.png"
-import logo3 from "./Images/3.png"
-import logo4 from "./Images/4.png"
-import logo5 from "./Images/5.png"
-import logo6 from "./Images/6.png"
-
 
 
 const Head = () => {
@@ -33,7 +25,7 @@ const Head = () => {
 
             </div>
             <div className="right flex1" data-aos="fade-left">
-                <iframe width="420" height="345" src="https://youtu.be/wKHJDDGHnd0"></iframe>
+                <iframe title="SearchIn Video" width="420" height="345" src="https://youtu.be/wKHJDDGHnd0"></iframe>
             </div>
         </div>
 
